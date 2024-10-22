@@ -68,6 +68,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/hemantkss"><img src="https://img.shields.io/github/followers/hemantkss?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/hemantkss"><img src="https://img.shields.io/github/followers/hemantkss?label=Follow&style=social" alt="GitHub Followers" /></a> &nbsp;
   <a href="https://github.com/hemantkss"><img src="https://komarev.com/ghpvc/?username=hemantkss&label=Profile%20Views&color=red&style=flat" alt="Profile Views" /></a>
 </p>
