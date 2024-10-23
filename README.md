@@ -53,13 +53,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hemantkss&theme=dracula" alt="hemantkss-trophies" />
-</p>
-
----
-
 ### 🎮 Fun Stuff:
 - 🎯 I enjoy working on **side projects** and **exploring cutting-edge technology**!
 - 🧠 Currently **honing my skills** in Generative AI and DSA.
