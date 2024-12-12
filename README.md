@@ -43,11 +43,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemantkss&show_icons=true&theme=radical" alt="hemantkss" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantkss&theme=radical" alt="hemantkss" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantkss&show_icons=true&locale=en&layout=compact&theme=radical" alt="hemantkss" />
 </p>
 
