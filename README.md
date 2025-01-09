@@ -6,15 +6,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkss&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkss" /> </p>
 
 ### Passion:
-🎯 Building animated sites with GSAP & Three.js <br/>
-🚀 Creating interactive 3D experiences <br/>
-🧠 Learning Python, ML, & AI
+🎯 Building animated sites with GSAP, Three.js & React Three Fiber (F3F) <br/>
+🚀 Creating interactive 3D experiences.<br/>
+🧠 Learning Python, ML, & AI.
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://twitter.com/mihemantsable" target="blank"><img align="center" src="https://images.vexels.com/content/137419/preview/twitter-icon-logo-25db10.png" alt="mihemantsable" height="40" width="40" /></a> &nbsp; &nbsp;
+<a href="https://twitter.com/mihemantsable" target="blank"><img align="center" src="https://images.vexels.com/content/137419/preview/twitter-icon-logo-25db10.png" alt="mihemantsable" height="40" width="40" /></a> &nbsp; &nbsp; 
 <a href="https://www.linkedin.com/in/hemantkss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemantkss" height="30" width="40" /></a> &nbsp; &nbsp;
 <a href="https://instagram.com/its.hemants" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.hemants" height="30" width="40" /></a>
 </p>
@@ -23,18 +23,39 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;  &nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;  &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a> &nbsp;  &nbsp;  &nbsp;
+  <br/>
+  <br/>
   
-  
- 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="50" height="50"/>
+  </a> &nbsp; &nbsp;  &nbsp;
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
+    <img src="https://1stwebdesigner.com/wp-content/uploads/2019/11/gsap-animation-01.png" alt="GSAP" width="100" height="50"/> 
+  </a> &nbsp; &nbsp;  &nbsp;
+  <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer"> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*y2Nmjze6R0ssCEOivNsfWA.jpeg" alt="React Three Fiber" width="80" height="50" "/> 
+  </a>
 </p>
+
 
 ---
 
