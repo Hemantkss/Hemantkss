@@ -53,7 +53,11 @@
   </a> &nbsp; &nbsp;  &nbsp;
   <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" rel="noreferrer"> 
     <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*y2Nmjze6R0ssCEOivNsfWA.jpeg" alt="React Three Fiber" width="80" height="50" "/> 
-  </a>
+  </a>  &nbsp; &nbsp;  &nbsp;
+  <a href="https://www.webxr.org" target="_blank" rel="noreferrer">
+    <img src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR" width="100" height="80" />
+</a>
+
 </p>
 
 
