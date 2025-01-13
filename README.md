@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantkss&label=Profile%20views&color=0e75b6&style=flat" alt="hemantkss" /> </p>
 
 ### Passion:
-🎯 Building animated sites with GSAP, Three.js & React Three Fiber (F3F) <br/>
+🎯 Building animated sites with GSAP, Three.js, WebXR & React Three Fiber (F3F) <br/>
 🚀 Creating interactive 3D experiences.<br/>
 🧠 Learning Python, ML, & AI.
 
