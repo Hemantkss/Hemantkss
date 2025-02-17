@@ -27,6 +27,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/> 
   </a> &nbsp;  &nbsp;  &nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="50" height="50"/> 
+</a> &nbsp;  &nbsp;  &nbsp;
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> 
   </a> &nbsp;  &nbsp;  &nbsp;
