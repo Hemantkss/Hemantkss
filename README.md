@@ -50,7 +50,7 @@
   <br/>
   
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="Three.js" width="50" height="50"/>
+    <img src="https://miro.medium.com/v2/resize:fit:687/1*m0zrCLd2wY29-jiHaxYsgA.png" alt="Three.js" width="90" height="50"/>
   </a> &nbsp; &nbsp;  &nbsp;
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
     <img src="https://1stwebdesigner.com/wp-content/uploads/2019/11/gsap-animation-01.png" alt="GSAP" width="100" height="50"/> 
